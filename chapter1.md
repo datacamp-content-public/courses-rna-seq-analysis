@@ -13,17 +13,17 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+You need to read in your count data from your alignemnts. This can be done in any ways. For example, you can use the xx to xxx
 
 `@instructions`
-
+read in your data   sfdsfdfsdfdsfdsf
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{r}
-
+require(tidyverse)
 ```
 
 `@sample_code`
